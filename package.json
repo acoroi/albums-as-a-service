@@ -1,0 +1,30 @@
+{
+  "name": "simple-node-app",
+  "description": "A simple node web service that does something neat.",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.0",
+    "joi": "^17.6.0",
+    "mongodb": "^4.5.0",
+    "winston": "^3.7.2"
+  },
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acoroi/simple-node-app.git"
+  },
+  "keywords": [
+    "simple"
+  ],
+  "author": "babi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acoroi/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/acoroi/simple-node-app#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
