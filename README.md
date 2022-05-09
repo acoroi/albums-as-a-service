@@ -65,14 +65,12 @@ GET {baseURL}/albums/209949
 ```
 ##### Response (200)
 ```json
-[
-    {
-        "title": "Hidden Terraces",
-        "artist": "Sofie Birch",
-        "genre": "Ambient",
-        "releaseYear": "2020"
-    }
-]
+  {
+      "title": "Hidden Terraces",
+      "artist": "Sofie Birch",
+      "genre": "Ambient",
+      "releaseYear": "2020"
+  }
 ```
 
 #### ```GET``` Album details by querystring parameter
